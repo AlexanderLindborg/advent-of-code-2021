@@ -1,6 +1,6 @@
-# AoC-template
+# Advent of Code 2021
 
-This is a template repository to use with advent of code
+This is a repository for my first attempt at advent of code in python.
 
 ## Initialize:
 
